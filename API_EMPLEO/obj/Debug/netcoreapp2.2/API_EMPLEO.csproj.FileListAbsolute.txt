@@ -1,0 +1,17 @@
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\API_EMPLEO.dll
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\DATABASE_MODELS.dll
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\DATABASE_MODELS.pdb
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.csprojAssemblyReference.cache
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.RazorAssemblyInfo.cache
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.RazorAssemblyInfo.cs
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.AssemblyInfoInputs.cache
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.AssemblyInfo.cs
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.RazorTargetAssemblyInfo.cache
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.dll
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.pdb
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\API_EMPLEO.deps.json
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\API_EMPLEO.runtimeconfig.json
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\API_EMPLEO.runtimeconfig.dev.json
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\bin\Debug\netcoreapp2.2\API_EMPLEO.pdb
+C:\PROYECTOS\ASOPAGOS\nuevoSise\back\API_EMPLEO\API_EMPLEO\obj\Debug\netcoreapp2.2\API_EMPLEO.csproj.CopyComplete
